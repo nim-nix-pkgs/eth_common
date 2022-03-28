@@ -11,7 +11,6 @@
   inputs.src-eth_common-master.ref   = "refs/heads/master";
   inputs.src-eth_common-master.owner = "status-im";
   inputs.src-eth_common-master.repo  = "nim-eth-common";
-  inputs.src-eth_common-master.dir   = "";
   inputs.src-eth_common-master.type  = "github";
   
   inputs."rlp".owner = "nim-nix-pkgs";
